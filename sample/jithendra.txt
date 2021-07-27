@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="Jithendra">
+  <title>JITHENDRA</title>
+</head>
+
+<body>
+  <header>
+    <h1 style="color:rgb(70, 11, 235);">WELCOME TO JITHENDRA WEBPAGE</h1>
+    <nav>
+      <a href="https://instagram.com/3_.jithu._3?utm_medium=copy_link" target="_blank">INSTAGRAM</a>
+    </nav>
+  </header>
+  <section>
+    <h2 style="color:Tomato;"">Favorite Foods</h2>
+    <ul>
+      <li>Fried rice</li>
+      <li>Ice cream</li>
+      <li>Shawarma</li>
+      <li>chocolates</li>
+    </ul>
+  </section>
+  <section>
+    <h2 style="color:Tomato;">Interested </h2>
+    <p>Playing sports/games (100%)
+      <progress value="1"></progress><br> learning new things (95%)
+      <progress value="95" max="100"></progress><br> Studying (85%)
+      <progress value="85" max="100"></progress>
+    </p>
+  </section>
+  <section>
+    <h2 style="color:Tomato;"">More About Me</h2>
+    <details>
+      <summary>About me</summary>
+      <p>Favourite cricketer:Suresh Raina </p>
+    </details>
+  </section>
+  <footer>
+    <p>
+      <img src=C:\Users\FriendS\Desktop\PSG\HTML\sample\download.jpeg width="500" height="600"  This page is created by Jithendra.N; </a>
+    </p>
+  </footer>
+
+</body>
+
+</html>
